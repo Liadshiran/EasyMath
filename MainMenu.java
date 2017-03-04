@@ -3,3 +3,6 @@ import
 
 function{
 }
+
+function2{
+}
